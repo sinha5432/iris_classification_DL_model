@@ -4,4 +4,8 @@ different species of iris flowers consists of differetn amount of petals and sep
 
 It attained an accuracy of 96.967% on dev set.
 
-Architecture of this model is saved in NN.pdf
+Architecture of this model:
+
+![alt text](https://github.com/sinha5432/iris_flower_DL_model/blob/master/Network.png)
+
+Output layer has a softmax activation, rest have tanh.
